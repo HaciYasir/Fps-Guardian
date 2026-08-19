@@ -1,6 +1,6 @@
 # 🛡️ FPS Guardian - Gamer Edition
 
-> **Bilgisayarınızın gücünü zirveye taşıyan, Cyberpunk temalı akıllı performans asistanı.**
+> **Bilgisayarınızın gücünü zirveye taşıyan, Akıllı performans asistanı.**
 
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
