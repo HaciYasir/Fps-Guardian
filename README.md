@@ -1,56 +1,37 @@
-🛡️ FPS Guardian - Gamer Edition
+# 🛡️ FPS Guardian - Gamer Edition
 
-    Bilgisayarınızın performansını zirveye taşıyan, siberpunk temalı akıllı sistem optimizasyon ve güvenlik asistanı.
+> **Bilgisayarınızın gücünü zirveye taşıyan, Cyberpunk temalı akıllı performans asistanı.**
 
-🚀 FPS Guardian Nedir? Ne İşe Yarar?
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-FPS Guardian, oyuncuların oyun oynarken arka planda yaşanan takılmaları, FPS düşüşlerini ve kaynak israfını engellemek için geliştirilmiş özel bir araçtır. Tamamen sezgisel, modern ve siberpunk esintili bir arayüze sahiptir.
-🌟 Öne Çıkan Özellikler:
+---
 
-    ⚡ Game Turbo Modu: Arka plandaki gereksiz Windows hizmetlerini (Spooler, DiagTrack vb.) geçici olarak durdurur, seçtiğiniz oyuna Yüksek Öncelik (High Priority) atayarak maksimum FPS sağlar.
+## ⚡ Nedir ve Ne İşe Yarar?
 
-    🔄 Akıllı Otomatik Güncelleme (Auto-Updater): Yeni bir sürüm yayınlandığında bunu otomatik olarak algılar, kullanıcıdan onay alarak kendini günceller ve ilk açılışta Yama Notları (Patch Notes) ekranını gösterir.
+**FPS Guardian**, oyun oynarken arka planda sistemi yoran süreçleri engelleyen, FPS düşüşlerini (stuttering) önleyen ve sisteminizi tek tıkla optimize eden bir araçtır.
 
-    🧹 Anlık RAM Temizleyici: Tek tıkla Windows önbelleğini boşaltarak RAM rahatlaması sağlar.
+* **🎮 Game Turbo:** Arka plandaki gereksiz Windows servislerini geçici olarak durdurur ve seçtiğiniz oyuna işlemci önceliği vererek FPS'i artırır.
+* **🧹 RAM & Ping Temizleyici:** Tek tıkla RAM önbelleğini ve DNS / ağ birikmelerini sıfırlar, takılmaları ve anlık gecikmeleri önler.
+* **🔄 Otomatik Güncelleme:** Yeni sürüm çıktığında kendini otomatik algılar, onayınızla günceller ve yenilikleri Yama Notları (Patch Notes) ekranıyla sunar.
+* **📊 MSI Afterburner & Araçlar:** Donanım takip programınızı tek tıkla başlatır, göz dinlendirme sayacıyla uzun maratonlarda mola hatırlatır.
+* **🌙 Sistem Tepsisi (Tray) Desteği:** Arka planda sessizce çalışır, oyun keyfinizi bölmez.
 
-    🌐 Ping / DNS Tazeleme: Ağ bağlantınızı ve DNS önbelleğinizi sıfırlayarak gecikmeleri (ping) en aza indirir.
+---
 
-    📊 MSI Afterburner Entegrasyonu: Tek tuşla donanım izleme programınızı hızlıca başlatmanızı sağlar.
+## 📥 Nasıl Kurulur?
 
-    👁️ Göz Dinlendirme Sayacı: Uzun oyun maratonlarında sağlığınız için size mola hatırlatması yapar.
+1. Deponun **Releases (Sürümler)** kısmından en güncel `FPS_Guardian.exe` dosyasını indirin.
+2. İndirdiğiniz `.exe` dosyasına sağ tıklayıp **Yönetici Olarak Çalıştır**ın.
+3. Arka planda sisteminizi optimize etmeye hemen başlasın!
 
-    🌙 Rahatsız Etme ve Ses Efektleri: Cyberpunk tarzı mekanik ses geri bildirimleri sunar, dilerseniz tamamen sessiz moda alabilirsiniz.
+---
 
-    🛡️ Sistem Tepsisi (Tray) Desteği: Çarpı tuşuna bastığınızda kapanmaz, arka planda sistem tepsisinde sessizce çalışmaya devam eder.
+## 🛡️ Güvenlik ve Gizlilik
 
-🛠️ Nasıl Kurulur ve Çalıştırılır?
+> ⚠️ **Yönetici İzni Hakkında:** Programın arka plan hizmetlerini düzenleyebilmesi ve oyunlara yüksek öncelik atayabilmesi için Yönetici İzni gereklidir.
 
-Projeyi kendi bilgisayarınızda çalıştırmak veya kaynak kodundan derlemek için şu adımları izleyebilirsiniz:
-1. Gereksinimler
-
-Bilgisayarınızda Python yüklü olmalıdır. Ardından gerekli kütüphaneleri yükleyin:
-Bash
-
-pip install psutil pystray pillow
-
-2. Kaynak Koddan .exe Yapma (Derleme)
-
-Projeyi tek bir .exe dosyası haline getirmek için terminale şu komutu yazabilirsiniz:
-Bash
-
-pyinstaller --onefile --noconsole fps_guardian.py
-
-(Oluşan fps_guardian.exe dosyası dist klasörünün içinde yer alacaktır.)
-🔒 Güvenlik ve Şeffaflık Politikası
-
-FPS Guardian, tamamen açık kaynaklı ve kullanıcı güvenliğini ön planda tutacak şekilde tasarlanmıştır:
-
-    🔑 Yönetici İzni (Admin Rights): Program, arka plandaki hizmetleri durdurabilmek ve oyunlara öncelik atayabilmek için Windows Yönetici iznine ihtiyaç duyar.
-
-    📂 Yerel Çalışma: Program hiçbir kişisel verinizi toplamaz, dışarıya hassas bilgi sızdırmaz. Tüm log kayıtları sadece bilgisayarınızdaki uygulama klasöründe (fps_guardian_log.txt) tutulur.
-
-    🌐 Güvenli Güncelleme: Güncellemeler yalnızca sizin belirlediğiniz resmi GitHub deposu üzerinden HTTPS protokolü ile kontrol edilir ve indirilir.
-
-👨‍💻 Geliştirici
-
-    Hacı Yasir - Project Creator & Developer
+* **Tamamen Şeffaf:** Herhangi bir veri toplama, reklam veya gizli arka plan süreci içermez.
+* **Güvenli İndirme:** Tüm güncellemeler yalnızca resmi GitHub deposu üzerinden çekilir.
+* **Yerel Kayıt:** Tüm sistem logları sadece bilgisayarınızdaki klasörde saklanır.
