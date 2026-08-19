@@ -1,6 +1,3 @@
-Kankam, GitHub depon için projenin kalitesini ve profesyonelliğini tavan yaptıracak, Türkçe, şık ve göz alıcı bir README.md dosyası hazırladım.
-
-Bunu kopyalayıp GitHub'daki depona README.md adıyla yapıştırman yeterli. İstersen hemen içeriğe bakalım:
 🛡️ FPS Guardian - Gamer Edition
 
     Bilgisayarınızın performansını zirveye taşıyan, siberpunk temalı akıllı sistem optimizasyon ve güvenlik asistanı.
