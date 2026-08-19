@@ -14,7 +14,6 @@
 
 * **🎮 Game Turbo:** Arka plandaki gereksiz Windows servislerini geçici olarak durdurur ve seçtiğiniz oyuna işlemci önceliği vererek FPS'i artırır.
 * **🧹 RAM & Ping Temizleyici:** Tek tıkla RAM önbelleğini ve DNS / ağ birikmelerini sıfırlar, takılmaları ve anlık gecikmeleri önler.
-* **🔄 Otomatik Güncelleme:** Yeni sürüm çıktığında kendini otomatik algılar, onayınızla günceller ve yenilikleri Yama Notları (Patch Notes) ekranıyla sunar.
 * **📊 MSI Afterburner & Araçlar:** Donanım takip programınızı tek tıkla başlatır, göz dinlendirme sayacıyla uzun maratonlarda mola hatırlatır.
 * **🌙 Sistem Tepsisi (Tray) Desteği:** Arka planda sessizce çalışır, oyun keyfinizi bölmez.
 
@@ -35,3 +34,7 @@
 * **Tamamen Şeffaf:** Herhangi bir veri toplama, reklam veya gizli arka plan süreci içermez.
 * **Güvenli İndirme:** Tüm güncellemeler yalnızca resmi GitHub deposu üzerinden çekilir.
 * **Yerel Kayıt:** Tüm sistem logları sadece bilgisayarınızdaki klasörde saklanır.
+
+## 👨‍💻 Geliştirici
+
+  **Hacı Yasir** - Project Creator & Developer
