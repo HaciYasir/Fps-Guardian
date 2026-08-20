@@ -14,8 +14,10 @@
 
 * **🎮 Game Turbo:** Arka plandaki gereksiz Windows servislerini geçici olarak durdurur ve seçtiğiniz oyuna işlemci önceliği vererek FPS'i artırır.
 * **🧹 RAM & Ping Temizleyici:** Tek tıkla RAM önbelleğini ve DNS / ağ birikmelerini sıfırlar, takılmaları ve anlık gecikmeleri önler.
-* **📊 MSI Afterburner & Araçlar:** Donanım takip programınızı tek tıkla başlatır, göz dinlendirme sayacıyla uzun maratonlarda mola hatırlatır.
+* **📊 MSI Afterburner & Araçlar:** Donanım takip programınızı tek tıkla başlatır.
+* **👁 Göz Dinlendirme:** Göz dinlendirme sayacıyla uzun maratonlarda mola hatırlatır.
 * **🌙 Sistem Tepsisi (Tray) Desteği:** Arka planda sessizce çalışır, oyun keyfinizi bölmez.
+* **💀 Arka plan takibi:** En çok güç tüketen uygulamayı bulur ve size bildirir
 
 ---
 
