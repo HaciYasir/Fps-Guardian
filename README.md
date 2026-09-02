@@ -17,7 +17,6 @@
 * **📊 MSI Afterburner & Araçlar:** Donanım takip programınızı tek tıkla başlatır.
 * **👁 Göz Dinlendirme:** Göz dinlendirme sayacıyla uzun maratonlarda mola hatırlatır.
 * **🌙 Sistem Tepsisi (Tray) Desteği:** Arka planda sessizce çalışır, oyun keyfinizi bölmez.
-* **💀 Arka plan takibi:** En çok güç tüketen uygulamayı bulur ve size bildirir
 
 ---
 
