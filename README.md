@@ -1,41 +1,77 @@
-# 🛡️ FPS Guardian - Gamer Edition
+# 🛡️ FPS Guardian v1.0.0 - Gamer Edition
 
-> **Bilgisayarınızın gücünü zirveye taşıyan, Akıllı performans asistanı.**
+> **Bilgisayarınızın gücünü zirveye taşıyan, akıllı ve hafif performans asistanı.**
 
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Version](https://img.shields.io/badge/Version-v1.0.0-cba6f7?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## ⚡ Nedir ve Ne İşe Yarar?
 
-**FPS Guardian**, oyun oynarken arka planda sistemi yoran süreçleri engelleyen, FPS düşüşlerini (stuttering) önleyen ve sisteminizi tek tıkla optimize eden bir araçtır.
-
-* **🎮 Game Turbo:** Arka plandaki gereksiz Windows servislerini geçici olarak durdurur ve seçtiğiniz oyuna işlemci önceliği vererek FPS'i artırır.
-* **🧹 RAM & Ping Temizleyici:** Tek tıkla RAM önbelleğini ve DNS / ağ birikmelerini sıfırlar, takılmaları ve anlık gecikmeleri önler.
-* **📊 MSI Afterburner & Araçlar:** Donanım takip programınızı tek tıkla başlatır.
-* **👁 Göz Dinlendirme:** Göz dinlendirme sayacıyla uzun maratonlarda mola hatırlatır.
-* **🌙 Sistem Tepsisi (Tray) Desteği:** Arka planda sessizce çalışır, oyun keyfinizi bölmez.
+**FPS Guardian**, oyun oynarken arka planda sistemi yoran süreçleri engelleyen, FPS düşüşlerini (stuttering) önleyen ve Windows kaynaklarını doğrudan oyununuza yönlendiren hafif (lightweight) bir performans optimizasyon aracıdır.
 
 ---
 
-## 📥 Nasıl Kurulur?
+## 🔥 Öne Çıkan Özellikler
 
-1. Deponun **Releases (Sürümler)** kısmından en güncel `FPS_Guardian.exe` dosyasını indirin.
-2. İndirdiğiniz `.exe` dosyasına sağ tıklayıp **Yönetici Olarak Çalıştır**ın.
-3. Arka planda sisteminizi optimize etmeye hemen başlasın!
+* **🎮 Otomatik Game Turbo:**
+  * Windows Yüksek Performans güç planını otomatik devreye sokar.
+  * `DiagTrack`, `dmwappushservice` ve `WerSvc` gibi arka plan izleme (telemetri) hizmetlerini sessizce durdurur.
+  * Seçtiğiniz oyuna doğrudan **Yüksek İşlemci Önceliği (High Priority)** atar.
+
+* **🧹 Derin Önbellek & RAM Temizleyici:**
+  * Tek tıkla RAM stand-by listesini sıfırlar.
+  * **Windows Temp, Prefetch, Google Chrome, Discord & DirectX Shader** önbelleklerini derinlemesine temizler.
+  * Temizlik esnasında kullanıcıya anlık durum ve silinen dosya boyutu bilgisini sunar.
+
+* **🚀 Akıllı Oto-Güncelleyici (Auto-Updater):**
+  * Uygulama açılışında yeni sürümü otomatik kontrol eder.
+  * Inno Setup entegrasyonu ve arka plan script desteği sayesinde tek tıkla kendini günceller.
+
+* **👁 Göz Dinlendirme & Mola Sayacı:**
+  * Uzun oyun maratonlarında göz sağlığınız için mola zamanlayıcısı sunar (Duraklat / Devam et destekli).
+
+* **🌙 Sistem Tepsisi (Tray) & Oto-Başlangıç:**
+  * Windows başlangıcında ekrana pencere getirmeden doğrudan sistem tepsisinde (Tray) sessizce çalışmaya başlar.
+
+---
+
+## 📸 Ekran Görüntüleri
+
+> *(Arayüz görsellerini buraya ekleyebilirsiniz)*
+> `![Arayüz Görseli](https://raw.githubusercontent.com/HaciYasir/FPS-Guardian/main/assets/preview.png)`
+
+---
+
+## 📥 Kurulum ve Kullanım
+
+1. [Releases (Sürümler)](https://github.com/HaciYasir/FPS-Guardian/releases) sayfasından en güncel `Fps_Guardian_setup.exe` kurulum dosyasını indirin.
+2. Kurulum adımlarını tamamlayın.
+3. Uygulamayı çalıştırın; arka planda sisteminizi optimize etmeye hemen başlasın!
+
+> ⚠️ **Yönetici İzni Hakkında:** Arka plan hizmetlerini düzenleyebilmek, telemetriyi kapatabilmek ve oyunlara işlemci önceliği atayabilmek için Yönetici İzni gereklidir.
 
 ---
 
 ## 🛡️ Güvenlik ve Gizlilik
 
-> ⚠️ **Yönetici İzni Hakkında:** Programın arka plan hizmetlerini düzenleyebilmesi ve oyunlara yüksek öncelik atayabilmesi için Yönetici İzni gereklidir.
+* **%100 Şeffaf:** Herhangi bir veri toplama, reklam veya gizli arka plan süreci barındırmaz.
+* **Güvenli Güncelleme:** Güncellemeler yalnızca resmi GitHub deposu üzerinden doğrulanarak çekilir.
+* **Yerel ve Hafif:** Tüm işlemler doğrudan bilgisayarınız üzerinde gerçekleşir, sisteminizi yormaz.
 
-* **Tamamen Şeffaf:** Herhangi bir veri toplama, reklam veya gizli arka plan süreci içermez.
-* **Güvenli İndirme:** Tüm güncellemeler yalnızca resmi GitHub deposu üzerinden çekilir.
-* **Yerel Kayıt:** Tüm sistem logları sadece bilgisayarınızdaki klasörde saklanır.
+---
 
 ## 👨‍💻 Geliştirici
 
-  **Hacı Yasir** - Project Creator & Developer
+**Yasir Bakır**  
+* 🌐 **Bio Link:** [bio.link/Yasir](https://yasir-bio.vercel.app/)
+* 🐙 **GitHub:** [@HaciYasir](https://github.com/HaciYasir)
+
+---
+
+## 📜 Lisans
+
+Bu proje **MIT Lisansı** altında korunmaktadır. İstediğiniz gibi inceleyebilir, geliştirebilir ve özelleştirebilirsiniz.
