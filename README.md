@@ -27,10 +27,6 @@
   * **Windows Temp, Prefetch, Google Chrome, Discord & DirectX Shader** önbelleklerini derinlemesine temizler.
   * Temizlik esnasında kullanıcıya anlık durum ve silinen dosya boyutu bilgisini sunar.
 
-* **🚀 Akıllı Oto-Güncelleyici (Auto-Updater):**
-  * Uygulama açılışında yeni sürümü otomatik kontrol eder.
-  * Inno Setup entegrasyonu ve arka plan script desteği sayesinde tek tıkla kendini günceller.
-
 * **👁 Göz Dinlendirme & Mola Sayacı:**
   * Uzun oyun maratonlarında göz sağlığınız için mola zamanlayıcısı sunar (Duraklat / Devam et destekli).
 
