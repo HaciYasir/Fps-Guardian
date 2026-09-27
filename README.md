@@ -41,8 +41,7 @@
 
 ## 📸 Ekran Görüntüleri
 
-> *(Arayüz görsellerini buraya ekleyebilirsiniz)*
-> `![Arayüz Görseli](https://raw.githubusercontent.com/HaciYasir/FPS-Guardian/main/assets/preview.png)`
+> <img width="621" height="631" alt="Screenshot_29" src="https://github.com/user-attachments/assets/cdcfc15f-5600-4d47-ad90-98639104631a" />
 
 ---
 
