@@ -3,7 +3,7 @@
 > **Bilgisayarınızın gücünü zirveye taşıyan, akıllı ve hafif performans asistanı.**
 
 ![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Version-v1.0.0-cba6f7?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v1.1.0-cba6f7?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -29,15 +29,14 @@
 
 * **👁 Göz Dinlendirme & Mola Sayacı:**
   * Uzun oyun maratonlarında göz sağlığınız için mola zamanlayıcısı sunar (Duraklat / Devam et destekli).
-
-* **🌙 Sistem Tepsisi (Tray) & Oto-Başlangıç:**
-  * Windows başlangıcında ekrana pencere getirmeden doğrudan sistem tepsisinde (Tray) sessizce çalışmaya başlar.
-
+ 
+* **⚡Sistem Optimizasyonu:** 
+  * Gereksiz arka plan servisleri ve Windows telemetri verileri temizlenir, gizlilik artırılır ve kaynak tüketimi minimuma indirilir.
 ---
 
 ## 📸 Ekran Görüntüleri
 
-> <img width="621" height="631" alt="Screenshot_29" src="https://github.com/user-attachments/assets/cdcfc15f-5600-4d47-ad90-98639104631a" />
+> <img width="621" height="815" alt="resim" src="https://github.com/user-attachments/assets/b225c0cb-4044-484b-a4f5-73bbb3458108" />
 
 ---
 
@@ -62,7 +61,7 @@
 ## 👨‍💻 Geliştirici
 
 **Yasir Bakır**  
-* 🌐 **Bio Link:** [bio.link/Yasir](https://yasir-bio.vercel.app/)
+* 🌐 **Bio Link:** [.is-a.dev/Yasir](https://yasirbakir.is-a.dev/)
 * 🐙 **GitHub:** [@HaciYasir](https://github.com/HaciYasir)
 
 ---
