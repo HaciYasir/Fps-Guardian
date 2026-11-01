@@ -1,9 +1,9 @@
-# 🛡️ FPS Guardian v1.0.0 - Gamer Edition
+# 🛡️ FPS Guardian v1.2.0 - Gamer Edition
 
 > **Bilgisayarınızın gücünü zirveye taşıyan, akıllı ve hafif performans asistanı.**
 
 ![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Version-v1.1.0-cba6f7?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v1.2.0-cba6f7?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -36,7 +36,8 @@
 
 ## 📸 Ekran Görüntüleri
 
-> <img width="621" height="815" alt="resim" src="https://github.com/user-attachments/assets/b225c0cb-4044-484b-a4f5-73bbb3458108" />
+<img width="900" height="830" alt="resim" src="https://github.com/user-attachments/assets/eca889c7-d0e1-4068-af51-1c9d49ba5522" />
+
 
 ---
 
